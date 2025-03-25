@@ -16,4 +16,6 @@
     <string name="bouton_7" translatable="false">7</string>
     <string name="bouton_8" translatable="false">8</string>
     <string name="bouton_9" translatable="false">9</string>
+    <string name="menu_reset" > Reset</string>
+    <string name="menu_calcul">Caclul</string>
 </resources>

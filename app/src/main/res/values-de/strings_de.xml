@@ -2,4 +2,6 @@
 <resources>
     <string name="bouton_calcul">Calculatrice en allemand</string>
     <string name="bouton_historique"> Historique en allemand</string>
+    <string name="menu_reset" > Reset en allemand</string>
+    <string name="menu_calcul">Caclul en allemand</string>
 </resources>
